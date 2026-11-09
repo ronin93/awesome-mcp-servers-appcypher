@@ -462,6 +462,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
 
 <br />
+- [ronin93/grindfree-agent-security](https://github.com/ronin93/grindfree-agent-security) - PromptShield, CrawlSafe and ToolGuard over x402 ($0.002 USDC on Base): prompt-injection screening, crawl/robots checks, and pre-tool allow|review|deny. Caller wallet pays; ToolGuard must be enforced by the adapter.
 
 ## 🔌 <a name="iot"></a>IoT
 
